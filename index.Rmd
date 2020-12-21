@@ -1,0 +1,19 @@
+---
+title: "Matt Kerlogue"
+image: "mk_portrait_500.png"
+color1: "#E6EAE2"
+color2: "#A5AAA0"
+angle: 130
+links:
+  - label: Blog
+    url: "https://lapsedgeographer.london/"
+  - label: GitHub
+    url: "https://github.com/mattkerlogue"
+  - label: Twitter
+    url: "https://twitter.com/mattkerlogue"
+output:
+  postcards::onofre:
+    css: 'style.css'
+---
+
+I am a senior analyst and data scientist at the [Cabinet Office](https://www.gov.uk/cabinet-office), my work is largely concentrated on helping other analysts make better use of new tools and techniques. I also occasionally write posts to my personal blog about coding, largely in [R](http://r-project.org).

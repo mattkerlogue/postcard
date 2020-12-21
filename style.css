@@ -1,0 +1,57 @@
+@import url("https://use.typekit.net/mem1snb.css");
+
+h1 {
+  font-family: motor-stencil, sans-serif;
+  font-size: 4rem;
+  font-weight: 400;
+  color: #1f222a;
+}
+
+h2 {
+ font-family: motor-stencil, sans-serif;
+ font-size: 1.25rem;
+ font-weight: 400;
+ color: #1f222a;
+}
+
+body {
+  font-family: dinosaur, sans-serif;
+  font-weight: 300;
+  font-size: 1.1rem;
+  color: #1f222a;
+}
+
+.btn {
+  font-family: motor-stencil, sans-serif;
+  font-weight: 300;
+  font-size: 1.25rem;
+  color: #1f222a;
+}
+
+.btn-outline-light {
+  color: #1f222a;
+  border-color: #1f222a;
+}
+
+.btn-outline-light:hover {
+  color: #E6EAE2;
+  background-color: #1f222a;
+  border-color: #1f222a;
+}
+
+.rounded-circle {
+  border-color: #A5AAA0;
+  border-style: solid;
+  border-width: 3px;
+  background-color: #A5AAA0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a {
+  color: #34399D;
+}
+
+a:hover {
+  color: #34399D;
+  font-weight: 500;
+}
